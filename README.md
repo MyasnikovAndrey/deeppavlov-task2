@@ -19,4 +19,4 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-![1](https://prnt.sc/105HIysuuTom)
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/1.jpg)
