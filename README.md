@@ -19,5 +19,5 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-![image info](./pictures/2.png)
+![avatar](C:\Users\Андрей\Documents\GitHub\deeppavlov-task2\pictures\2.png)
 
