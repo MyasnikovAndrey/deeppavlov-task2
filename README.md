@@ -43,7 +43,7 @@
 
 ### Попробуем сделать POST запрос внутри модуля .ipynb jupyter notebook и сохранить результат в переменную  
 Получим следующий результат (**ФАЙЛ model_request.ipynb**)  
-![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/jupyter.png)
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/jupyter2.png)
   
 ## Способ 2  
 1) Перейти по ссылке <code>https://3beb-109-202-60-123.eu.ngrok.io</code>  
