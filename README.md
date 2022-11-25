@@ -19,5 +19,5 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-![image info](./pictures/1.jpeg)
+![image info](./pictures/2.png)
 
