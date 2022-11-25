@@ -19,16 +19,16 @@
 > 1) Через cmd 
 > 2) Используя графическую оболочку   
 
-### Способ 1  
+## Способ 1  
 1) Открываем cmd  
 2) Отправлять запрос POST мы будем с помощью инструмента curl  
 >curl — инструмент для передачи данных с сервера или на него  
 
 Шаблон запроса POST:  
-curl -X POST "https://3beb-109-202-60-123.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" 
--d "{\"context_raw\":[\"Ваш_текст\"], \"question_raw\":[\"Вопрос_по_вашему_тексту\"]}"
+<code>curl -X POST "https://3beb-109-202-60-123.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" 
+-d "{\"context_raw\":[\"Ваш_текст\"], \"question_raw\":[\"Вопрос_по_вашему_тексту\"]}"</code>  
   
-### Способ 2  
+## Способ 2  
 1) Перейти по ссылке <code>https://3beb-109-202-60-123.eu.ngrok.io</code>  
 2) Вы увидите графическую оболочку, как на картинке ниже  
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/1.png)  
