@@ -19,4 +19,37 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/1.jpg)
+#### Способ 1
+1) Перейти по ссылке <code>https://3beb-109-202-60-123.eu.ngrok.io</code>  
+2) Вы увидите графическую оболочку, как на картинке ниже  
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/1.png)  
+3)Нажимите **Try it out** в вверхнем правом углу  
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/2.png)  
+  
+На картинке выше представлены:
+> request body - поле, куда мы пишим код  
+> кнопка execute, которая посылает запрос  
+> responses - типы ответов (200 - OK, 422 - Ошибка)  
+
+Шаблон кода в request body должен выглядеть так:  
+<code> {  
+  "context_raw": [  
+    "какой-то_ваш_текст"  
+  ],  
+  "question_raw": [  
+    "вопрос_по_вашему_тексту"  
+  ]  
+}</code>   
+  
+Впишим код ниже в request body и нажмем кнопку execute:
+<code> {  
+  "context_raw": [  
+    "DeepPavlov is a library for NLP and dialog systems."  
+  ],  
+  "question_raw": [  
+    "What is DeepPavlov?"  
+  ]  
+}</code>   
+
+Получи следующий output:  
+
