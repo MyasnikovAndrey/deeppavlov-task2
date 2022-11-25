@@ -30,3 +30,13 @@
 > request body - поле, куда мы пишим код  
 > кнопка execute, которая посылает запрос  
 > responses - типы ответов (200 - OK, 422 - Ошибка)  
+
+Шаблон кода в request body должен выглядеть так:
+<code> {
+  "context_raw": [
+    "string"
+  ],
+  "question_raw": [
+    "string"
+  ]
+}</code> 
