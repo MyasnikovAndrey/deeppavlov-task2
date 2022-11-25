@@ -37,7 +37,7 @@
 **Получим таккой output:**  
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/output.png) 
   
-**Ответ получился: <code>a library for NLP and dialog systems</code>  
+**Ответ получился:** <code>a library for NLP and dialog systems</code>  
 **Ответ сервера: 200 - все ОК**  
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/server_req.png)
   
