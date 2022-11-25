@@ -19,5 +19,6 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
+<img title="a title" alt="Alt text" src="(C:\Users\Андрей\Documents\GitHub\deeppavlov-task2\pictures\2.png">
 ![avatar](C:\Users\Андрей\Documents\GitHub\deeppavlov-task2\pictures\2.png)
 
