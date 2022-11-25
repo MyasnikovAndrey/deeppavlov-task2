@@ -40,3 +40,16 @@
     "вопрос_по_вашему_тексту"  
   ]  
 }</code>   
+  
+Впишим код ниже в request body и нажмем кнопку execute:
+<code> {  
+  "context_raw": [  
+    "DeepPavlov is a library for NLP and dialog systems."  
+  ],  
+  "question_raw": [  
+    "What is DeepPavlov?"  
+  ]  
+}</code>   
+
+Получи следующий output:  
+
