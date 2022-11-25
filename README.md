@@ -24,7 +24,7 @@
 2) Отправлять запрос POST мы будем с помощью инструмента curl  
 >curl — инструмент для передачи данных с сервера или на него  
 
-Шаблон запроса POST:  
+**Шаблон запроса POST:**   
 <code>curl -X POST "https://3beb-109-202-60-123.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" 
 -d "{\\"context_raw\\":[\\"Ваш_текст\\"], \\"question_raw\\":[\\"Вопрос_по_вашему_тексту\\"]}"</code> 
 
@@ -46,7 +46,7 @@
 > кнопка execute, которая посылает запрос  
 > responses - типы ответов (200 - OK, 422 - Ошибка)  
 
-Шаблон кода в request body должен выглядеть так:  
+**Шаблон кода в request body должен выглядеть так:**   
 <code> {  
   "context_raw": [  
     "какой-то_ваш_текст"  
@@ -56,7 +56,7 @@
   ]  
 }</code>   
   
-Впишим код ниже в request body и нажмем кнопку execute:  
+**Впишим код ниже в request body и нажмем кнопку execute:**   
 <code> {  
   "context_raw": [  
     "DeepPavlov is a library for NLP and dialog systems."  
@@ -66,7 +66,7 @@
   ]  
 }</code>   
 
-Получим следующий output:  
+**Получим следующий output:**   
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/3.png)  
 Ответ получился: <code>a library for NLP and dialog systems</code>  
 Ответ сервера: 200 - все ОК
