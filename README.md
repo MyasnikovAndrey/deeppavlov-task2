@@ -21,12 +21,12 @@
 
 #### Способ 1
 1) Перейти по ссылке <code>https://3beb-109-202-60-123.eu.ngrok.io</code>  
-2)Вы увидите графическую оболочку, как на картинке ниже  
+2) Вы увидите графическую оболочку, как на картинке ниже  
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/1.png)  
 3)Нажимите **Try it out** в вверхнем правом углу  
-![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/2.png)
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/2.png)  
   
 На картинке выше представлены:
-> request body - поле, куда мы пишим код
-> кнопка execute, которая посылает запрос
-> responses - типы ответов (200 - OK, 422 - Ошибка)
+> request body - поле, куда мы пишим код  
+> кнопка execute, которая посылает запрос  
+> responses - типы ответов (200 - OK, 422 - Ошибка)  
