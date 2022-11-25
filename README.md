@@ -19,4 +19,4 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-< img src="C:\Users\Андрей\Documents\GitHub\deeppavlov-task2\pictures\2.png"/>
+![1](https://prnt.sc/105HIysuuTom)
