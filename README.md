@@ -34,9 +34,9 @@
 Шаблон кода в request body должен выглядеть так:  
 <code> {  
   "context_raw": [  
-    "string"  
+    "какой-то_ваш_текст"  
   ],  
   "question_raw": [  
-    "string"  
+    "вопрос_по_вашему_тексту"  
   ]  
 }</code>   
