@@ -41,7 +41,7 @@
   ]  
 }</code>   
   
-Впишим код ниже в request body и нажмем кнопку execute:
+Впишим код ниже в request body и нажмем кнопку execute:  
 <code> {  
   "context_raw": [  
     "DeepPavlov is a library for NLP and dialog systems."  
@@ -52,4 +52,6 @@
 }</code>   
 
 Получи следующий output:  
-
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/3.png)  
+Ответ получился: <code>a library for NLP and dialog systems</code>  
+Ответ сервера: 200 - все ОК
