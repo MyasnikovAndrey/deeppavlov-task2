@@ -19,4 +19,4 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-![image](files://C:\Users\Андрей\Desktop\task2.jpeg)
+![1](https://prnt.sc/105HIysuuTom)
