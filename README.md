@@ -41,8 +41,8 @@
 **Ответ сервера: 200 - все ОК**  
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/server_req.png)  
 
-**Попробуем сделать POST запрос внутри модуля .ipynb jupyter notebook и сохранить результат в переменную**   
-Получим следующий результат (ФАЙЛ model_request.ipynb)  
+### Попробуем сделать POST запрос внутри модуля .ipynb jupyter notebook и сохранить результат в переменную  
+Получим следующий результат (**ФАЙЛ model_request.ipynb**)  
 ![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/jupyter.png)
   
 ## Способ 2  
