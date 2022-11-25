@@ -19,4 +19,5 @@
 > 1) Используя графическую оболочку
 > 2) Через cmd  
 
-![image](files://C:\Users\Андрей\Desktop\task2.jpeg)
+![image info](./pictures/1.jpeg)
+
