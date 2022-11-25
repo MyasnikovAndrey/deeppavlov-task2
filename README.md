@@ -27,15 +27,19 @@
 **Шаблон запроса POST:**   
 <code>curl -X POST "https://3beb-109-202-60-123.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" 
 -d "{\\"context_raw\\":[\\"Ваш_текст\\"], \\"question_raw\\":[\\"Вопрос_по_вашему_тексту\\"]}"</code> 
-
-**Получим таккой output:**  
-![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/output.png)  
-
-**Пример:**  
+  
+ **Пример:**  
 Текст: DeepPavlov is a library for NLP and dialog systems.  
 Вопрос по тексту: "What is DeepPavlov?"  
   
 <code>curl -X POST "https://3beb-109-202-60-123.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" -d "{\\"context_raw\\":[\\"DeepPavlov is a library for NLP and dialog systems.\\"], \\"question_raw\\":[\\"What is DeepPavlov?\\"]}"</code>  
+  
+**Получим таккой output:**  
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/output.png) 
+  
+**Ответ получился: <code>a library for NLP and dialog systems</code>  
+**Ответ сервера: 200 - все ОК**
+![image info](https://github.com/MyasnikovAndrey/deeppavlov-task2/blob/main/pictures/server_req.png)
   
 ## Способ 2  
 1) Перейти по ссылке <code>https://3beb-109-202-60-123.eu.ngrok.io</code>  
