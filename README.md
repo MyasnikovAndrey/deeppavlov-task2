@@ -28,7 +28,7 @@
 <code>curl -X POST "https://3beb-109-202-60-123.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" 
 -d "{\\"context_raw\\":[\\"Ваш_текст\\"], \\"question_raw\\":[\\"Вопрос_по_вашему_тексту\\"]}"</code> 
 
-Пример:
+**Пример:**  
 Текст: DeepPavlov is a library for NLP and dialog systems.  
 Вопрос по тексту: "What is DeepPavlov?"  
   
